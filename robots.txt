@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balsan-body-review.mapo-room-guide.xyz/sitemap.xml
+Sitemap: https://balsan-body-review.mapo-room-guide.xyz/sitemap-pages.xml
